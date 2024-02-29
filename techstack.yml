@@ -2,7 +2,7 @@ repo_name: ramzimalhas/comodoro
 report_id: a6790032e15e8b4490a114b4d2fa58e6
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-23T06:56:53+00:00'
+timestamp: '2024-02-29T19:33:00+00:00'
 requested_by: soywod
 provider: github
 branch: master
@@ -80,7 +80,7 @@ tools:
   last_updated_by: Clément DOUIN
   last_updated_on: 2023-04-24 20:38:02.000000000 Z
 - name: Nix
-  description: 'A package manager for Linux and other Unix systems '
+  description: A package manager for Linux and other Unix systems
   website_url: http://nixos.org/nix
   license: LGPL-2.1
   open_source: true
